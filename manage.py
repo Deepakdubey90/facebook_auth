@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+"""this is test"""
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "psa.settings")
 
